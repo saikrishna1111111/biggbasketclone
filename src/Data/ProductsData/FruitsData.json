@@ -1,0 +1,282 @@
+[
+    {
+        "id":1,
+        "name":"Baby Apple Shimla",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40134281_13-fresho-baby-apple-shimla.jpg",
+        "price":70,
+        "quan":"1kg"
+    },
+    {
+        "id":2,
+        "name":"Banana",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000031_21-fresho-banana-yelakki.jpg",
+        "price":80,
+        "quan":"1kg"
+    },
+    {
+        "id":3,
+        "name":"Orange ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/1222182_1-fresho-orange-nagpur-regular.jpg",
+        "price":90,
+        "quan":"1kg"
+    },
+    {
+        "id":4,
+        "name":"Banana ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000027_28-fresho-banana-robusta.jpg",
+        "price":100,
+        "quan":"1kg"
+    },
+    {
+        "id":5,
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40033819_29-fresho-apple-shimla.jpg",
+        "name":"Apple - Shimla",
+        "price":110,
+        "quan":"1kg"
+    },
+    {
+        "id":6,
+        "name":"Tender Coconut",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/1221868_1-fresho-tender-coconut.jpg",
+        "price":120,
+        "quan":"1kg"
+    },
+    {
+        "id":7,
+        "name":"Pomegranate ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000269_31-fresho-pomegranate.jpg",
+        "price":100,
+        "quan":"1kg"
+    },
+    {
+        "id":8,
+        "name":"Blueberry",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/30009286_7-fresho-blueberry.jpg",
+        "price":70,
+        "quan":"1kg"
+    },
+    {
+        "id":9,
+        "name":"Coconut ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000093_16-fresho-coconut-medium.jpg",
+        "price":90,
+        "quan":"1kg"
+    },
+    {
+        "id":10,
+        "name":"Baby Orange ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/20003956_2-fresho-baby-orange.jpg",
+        "price":80,
+        "quan":"1kg"
+    },
+    {
+        "id":11,
+        "name":"Pomegranate",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40120006_4-fresho-pomegranate-small.jpg",
+        "price":110,
+        "quan":"1kg"
+    },
+    {
+        "id":12,
+        "name":"Kiwi",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/20000911_30-fresho-kiwi-green.jpg",
+        "price":105,
+        "quan":"1kg"
+    },
+    {
+        "id":13,
+        "name":"Banana ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40023474_7-fresho-banana-yelakki-organically-grown.jpg",
+        "price":119,
+        "quan":"1kg"
+    },
+    {
+        "id":14,
+        "name":"Watermelon ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000207_24-fresho-watermelon-small.jpg",
+        "price":120,
+        "quan":"1kg"
+    },
+    {
+        "id":15,
+        "name":"Avocado",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000013_24-fresho-avocado.jpg",
+        "price":88,
+        "quan":"1kg"
+    },
+    {
+        "id":16,
+        "name":"Apple Shimla ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/1209669_1-fresho-apple-shimla-banana-robusta-orange-nagpur-tender-coconut-watermelon-small.jpg",
+        "price":100,
+        "quan":"1kg"
+    },
+    {
+        "id":17,
+        "name":"Papaya ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40114961_4-fresho-papaya-small.jpg",
+        "price":99,
+        "quan":"1kg"
+    },
+    {
+        "id":18,
+        "name":"Mosambi ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40203347_2-fresho-mosambi-economy.jpg",
+        "price":89,
+        "quan":"1kg"
+    },
+    {
+        "id":19,
+        "name":"Apple ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40033823_20-fresho-apple-royal-gala-regular.jpg",
+        "price":70,
+        "quan":"1kg"
+    },
+    {
+        "id":20,
+        "name":"Pear Beauty",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40174618_4-fresho-pear-beauty.jpg",
+        "price":60,
+        "quan":"1kg"
+    },
+    {
+        "id":21,
+        "name":"Guava (Loose)",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000370_14-fresho-guava.jpg",
+        "price":130,
+        "quan":"1kg"
+    },
+    {
+        "id":22,
+        "name":"Orange ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/20000910_12-fresho-orange-imported.jpg",
+        "price":129,
+        "quan":"1kg"
+    },
+    {
+        "id":23,
+        "name":"Apple - Shimla",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40113206_3-fresho-apple-shimla-premium.jpg",
+        "price":119,
+        "quan":"1kg"
+    },
+    {
+        "id":24,
+        "name":"Orange ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40094039_9-fresho-orange-nagpur-small.jpg",
+        "price":119,
+        "quan":"1kg"
+    },
+    {
+        "id":25,
+        "name":"Apple ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000005_27-fresho-apple-royal-gala-economy.jpg",
+        "price":111,
+        "quan":"1kg"
+    },
+    {
+        "id":26,
+        "name":"Papaya ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000152_22-fresho-papaya-medium.jpg",
+        "price":70,
+        "quan":"1kg"
+    },
+    {
+        "id":27,
+        "name":"Dragon Fruit ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40008982_15-fresho-dragon-fruit.jpg",
+        "price":60,
+        "quan":"1kg"
+    },
+    {
+        "id":28,
+        "name":"Baby Banana ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40179390_6-fresho-baby-banana-robusta.jpg",
+        "price":99,
+        "quan":"1kg"
+    },
+    {
+        "id":29,
+        "name":"Sapota",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000180_15-fresho-sapota.jpg",
+        "price":89,
+        "quan":"1kg"
+    },
+    {
+        "id":30,
+        "name":"Apple Banana",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/1202742_1-bb-combo-apple-banana-breakfast.jpg",
+        "price":69,
+        "quan":"1kg"
+    },
+    {
+        "id":31,
+        "name":"Daily combo",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/1222456_1-fresho-fresho-apple-red-delicious-regular-4-pcs-fresho-banana-robusta-1-kg.jpg",
+        "price":199,
+        "quan":"1kg"
+    },
+    {
+        "id":32,
+        "name":"Pomegranate ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40005823_7-fresho-pomegranate-peeled.jpg",
+        "price":60,
+        "quan":"1kg"
+    },
+    {
+        "id":33,
+        "name":"Pomegranate ",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000268_29-fresho-pomegranate.jpg",
+        "price":90,
+        "quan":"1kg"
+    },
+    {
+        "id":34,
+        "name":"Pineapple",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/10000156_21-fresho-pineapple.jpg",
+        "price":110,
+        "quan":"1kg"
+    },
+    {
+        "id":35,
+        "name":"Combo 3 Items",
+        "image":"https://www.bigbasket.com/media/uploads/p/mm/1201613_2-fresho-apple-red-delicious-regular-4pcs-kiwi-green-3pcs-pomegranate-4pcs.jpg",
+        "price":120,
+        "quan":"1kg"
+    },
+    {
+        "id":36,
+        "name":"Guava Premium ",
+        "image":"https://www.bigbasket.com/media/uploads/p/mm/30002322_11-fresho-guava-thai.jpg",
+        "price":30,
+        "quan":"1kg"
+    },
+    {
+        "id":37,
+        "name":"Banana Green",
+        "image":"https://www.bigbasket.com/media/uploads/p/mm/10000167_13-fresho-banana-raw-green.jpg",
+        "price":70,
+        "quan":"1kg"
+    },
+    {
+        "id":38,
+        "name":"Apple ",
+        "image":"https://www.bigbasket.com/media/uploads/p/mm/40105380_18-fresho-apple-royal-gala-premium.jpg",
+        "price":80,
+        "quan":"1kg"
+    },
+    {
+        "id":39,
+        "name":"Watermelon ",
+        "image":"https://www.bigbasket.com/media/uploads/p/mm/40023482_8-fresho-watermelon-organically-grown.jpg",
+        "price":90,
+        "quan":"1kg"
+    },
+    {
+        "id":40,
+        "name":"Apple - Shimla",
+        "image":"https://www.bigbasket.com/media/uploads/p/s/40113206_3-fresho-apple-shimla-premium.jpg",
+        "price":99,
+        "quan":"1kg"
+    }
+]

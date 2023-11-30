@@ -1,0 +1,15 @@
+
+.category{
+    background-color:#A0CD4A;
+    color:white;
+    cursor:pointer;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px 5px;
+}
+.Nav-offers{
+    cursor:pointer;
+    padding:10px
+}

@@ -1,0 +1,45 @@
+.Nav-container{
+    height: fit-content;
+    position: relative;
+}
+.nav-class{
+    padding:0px;
+    height:"fit-content";
+    justify-content: space-between;
+}
+.Navigations{
+    width: 100%;
+}
+
+.sub-Navigations{
+    height:50px;
+    width:100%
+}
+
+.cursor{
+    cursor: pointer;
+}
+.Navigations-container{
+    width:50%;
+    top:20%;
+    right:10%;
+    position:absolute;
+    justify-content: space-between;
+}
+#active{
+    text-decoration: underline;
+    text-decoration-color:chartreuse ;
+}
+
+
+.react-gravatar{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
+
+.page-404{
+    height: calc(100vh - 220px);
+}

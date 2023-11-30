@@ -1,0 +1,11 @@
+.form-container{
+    margin: auto;
+}
+span{
+    color:tomato;}
+.form-submit{
+    width: 100%;
+}
+.form-errors{
+    color: red;
+}

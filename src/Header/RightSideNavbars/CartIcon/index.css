@@ -1,0 +1,9 @@
+.CartLength{
+    top:-15px;
+    right:-20px;
+    background:red;
+    border-radius:80%;
+}
+.cart{
+    cursor: pointer;
+}
